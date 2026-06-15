@@ -230,10 +230,8 @@ const sivaSundar = {
 
 <div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-FF6C37?style=flat-square&logo=blueprint&logoColor=white)
-![DSA](https://img.shields.io/badge/Data_Structures_%26_Algorithms-1F6FEB?style=flat-square&logo=leetcode&logoColor=white)
 
 </div>
 
@@ -244,7 +242,7 @@ const sivaSundar = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SivaSundarRM)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siva-sundar-ramachandran-7b27a8249/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SivaSundarRM)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sivaramachandran242@gmail.com)
 
